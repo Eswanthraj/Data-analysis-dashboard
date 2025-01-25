@@ -1,6 +1,6 @@
-#HR Data analysis (Interactive Dashboard creation using Powerbi)
+HR Data analysis (Interactive Dashboard creation using Powerbi)📈
 
-#Project objective
+Project objective
 This project is a Power BI dashboard that provides an analysis of HR sales data. The dashboard includes various visualizations to help understand key performance metrics, trends, and insights related to HR and sales performance.
 
 #Features of the Dashboard

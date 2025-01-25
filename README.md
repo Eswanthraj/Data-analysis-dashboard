@@ -42,4 +42,6 @@ Questions (KPIs)
 
 10) Quick HR Dashboard
 
-Dashboard interaction "C:\Users\Eswanth Raj\Pictures\Screenshots\Screenshot (222).png" 
+Dashboard interaction
+![Screenshot (222)](https://github.com/user-attachments/assets/1724b290-81a1-44d7-b248-89b582456d4b)
+

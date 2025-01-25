@@ -41,3 +41,5 @@ Questions (KPIs)
 9) Leave balance analysis
 
 10) Quick HR Dashboard
+
+Dashboard interaction <a href="https://github.com/Eswanthraj/Data-analysis dashboard/blob/main/Final%20HR%20sales%20dashboard.pbix"> 

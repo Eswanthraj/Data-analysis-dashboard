@@ -42,4 +42,4 @@ Questions (KPIs)
 
 10) Quick HR Dashboard
 
-Dashboard interaction <a href="https://github.com/Eswanthraj/Data-analysis-dashboard/blob/main/Screenshot%20(222).png"> 
+Dashboard interaction "C:\Users\Eswanth Raj\Pictures\Screenshots\Screenshot (222).png" 

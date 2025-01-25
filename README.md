@@ -17,3 +17,6 @@ Excel/SQL (if applicable): For data preprocessing or extraction before importing
 Future Enhancements
 Add more filters and slicers for better interaction.
 Incorporate predictive analytics for future sales forecasting.
+
+Dataset used: 
+<a href="https://github.com/Eswanthraj/Data-analysis-dashboard/blob/main/hr-data%20(1).xlsx">Dataset</a>
